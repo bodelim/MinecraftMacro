@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InputSimulatorPlus/1.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net20/WindowsInput.dll": {}
+        },
+        "runtime": {
+          "lib/net20/WindowsInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputSimulatorPlus/1.0.7": {
+      "sha512": "mOJt32qhvp3knYB8EEOh6/9cwZEwQV2BRD3DGZZ8guFg8vOt+xq6QGEt5eFjTkG+VWgVDMPVdCAIE4gnfab+3Q==",
+      "type": "package",
+      "path": "inputsimulatorplus/1.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "inputsimulatorplus.1.0.7.nupkg.sha512",
+        "inputsimulatorplus.nuspec",
+        "lib/net20/WindowsInput.dll",
+        "lib/net20/WindowsInput.pdb",
+        "lib/net20/WindowsInput.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "InputSimulatorPlus >= 1.0.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bodle\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bodle\\source\\repos\\guiTutorial\\guiTutorial\\guiTutorial.csproj",
+      "projectName": "MinecraftMacro",
+      "projectPath": "C:\\Users\\bodle\\source\\repos\\guiTutorial\\guiTutorial\\guiTutorial.csproj",
+      "packagesPath": "C:\\Users\\bodle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bodle\\source\\repos\\guiTutorial\\guiTutorial\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bodle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "InputSimulatorPlus": {
+            "target": "Package",
+            "version": "[1.0.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.14, 3.1.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.1' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'InputSimulatorPlus 1.0.7'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "InputSimulatorPlus",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

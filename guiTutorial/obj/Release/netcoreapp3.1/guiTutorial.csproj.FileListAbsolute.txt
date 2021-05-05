@@ -1,0 +1,17 @@
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.exe
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.deps.json
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.runtimeconfig.json
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.runtimeconfig.dev.json
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.dll
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\MinecraftMacro.pdb
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.Form1.resources
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.csproj.GenerateResource.cache
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.AssemblyInfoInputs.cache
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.AssemblyInfo.cs
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.csproj.CoreCompileInputs.cache
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\MinecraftMacro.dll
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\MinecraftMacro.pdb
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.genruntimeconfig.cache
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Release\netcoreapp3.1\WindowsInput.dll
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.csproj.CopyComplete
+C:\Users\bodle\source\repos\guiTutorial\guiTutorial\obj\Release\netcoreapp3.1\guiTutorial.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>guiTutorial</id>
+    <version>1.0.0</version>
+    <authors>guiTutorial</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Debug\netcoreapp3.1\guiTutorial.runtimeconfig.json" target="lib\netcoreapp3.1\guiTutorial.runtimeconfig.json" />
+    <file src="C:\Users\bodle\source\repos\guiTutorial\guiTutorial\bin\Debug\netcoreapp3.1\guiTutorial.dll" target="lib\netcoreapp3.1\guiTutorial.dll" />
+  </files>
+</package>
